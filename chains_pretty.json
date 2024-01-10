@@ -3791,7 +3791,7 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "Fraxchain Mainnet",
+  "name": "Fraxtal Mainnet",
   "chain": "FRAX",
   "rpc": [],
   "faucets": [],
@@ -3801,7 +3801,7 @@
     "decimals": 18
   },
   "infoURL": "https://mainnet.frax.com",
-  "shortName": "fraxchain",
+  "shortName": "fraxtal",
   "chainId": 252,
   "networkId": 252,
   "explorers": [],
@@ -5295,6 +5295,32 @@
   "explorers": [{
     "name": "Rollux Explorer",
     "url": "https://explorer.rollux.com",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "MetaChain Mainnet",
+  "chain": "MTC",
+  "icon": "metachain",
+  "rpc": ["https://rpc.metatime.com"],
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Metatime Coin",
+    "symbol": "MTC",
+    "decimals": 18
+  },
+  "infoURL": "https://metatime.com/en",
+  "shortName": "metatime",
+  "chainId": 571,
+  "networkId": 571,
+  "slip44": 571,
+  "explorers": [{
+    "name": "MetaExplorer",
+    "url": "https://explorer.metatime.com",
     "standard": "EIP3091"
   }]
 }, {
@@ -10868,7 +10894,7 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "Fraxchain Testnet",
+  "name": "Fraxtal Testnet",
   "chain": "FRAX",
   "rpc": ["https://rpc.testnet.frax.com"],
   "faucets": [],
@@ -10878,7 +10904,7 @@
     "decimals": 18
   },
   "infoURL": "https://testnet.frax.com",
-  "shortName": "fraxchain-testnet",
+  "shortName": "fraxtal-testnet",
   "chainId": 2522,
   "networkId": 2522,
   "slip44": 1,
@@ -20788,6 +20814,29 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Etherlink Testnet",
+  "chain": "Etherlink",
+  "icon": "etherlink",
+  "chainId": 128123,
+  "networkId": 128123,
+  "features": [{
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://etherlink.com",
+  "shortName": "etlt",
+  "nativeCurrency": {
+    "name": "tez",
+    "symbol": "XTZ",
+    "decimals": 18
+  },
+  "rpc": ["https://node.ghostnet.etherlink.com"],
+  "faucets": ["https://faucet.etherlink.com"],
+  "explorers": [{
+    "name": "Etherlink Testnet Explorer",
+    "url": "https://testnet-explorer.etherlink.com",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "ETND Chain Mainnets",
   "chain": "ETND",
   "rpc": ["https://rpc.node1.etnd.pro/"],
@@ -22922,6 +22971,20 @@
     "icon": "ethereum",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "Turkey Demo Dev",
+  "chain": "ETH",
+  "rpc": ["https://blockscout-poa.huabeizhenxuan.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "TDD",
+  "chainId": 1731313,
+  "networkId": 1731313
 }, {
   "name": "DeBank Testnet",
   "chain": "DeBank",

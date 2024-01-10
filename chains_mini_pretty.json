@@ -2456,9 +2456,9 @@
   "faucets": [],
   "infoURL": "https://fantom.foundation"
 }, {
-  "name": "Fraxchain Mainnet",
+  "name": "Fraxtal Mainnet",
   "chainId": 252,
-  "shortName": "fraxchain",
+  "shortName": "fraxtal",
   "networkId": 252,
   "nativeCurrency": {
     "name": "Frax Ether",
@@ -3326,6 +3326,19 @@
   "rpc": ["https://rpc.rollux.com", "wss://rpc.rollux.com/wss"],
   "faucets": ["https://rollux.id/faucetapp"],
   "infoURL": "https://rollux.com"
+}, {
+  "name": "MetaChain Mainnet",
+  "chainId": 571,
+  "shortName": "metatime",
+  "networkId": 571,
+  "nativeCurrency": {
+    "name": "Metatime Coin",
+    "symbol": "MTC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.metatime.com"],
+  "faucets": [],
+  "infoURL": "https://metatime.com/en"
 }, {
   "name": "Metis Stardust Testnet",
   "chainId": 588,
@@ -6863,9 +6876,9 @@
   "faucets": ["https://faucet.uniultra.xyz"],
   "infoURL": "https://uniultra.xyz"
 }, {
-  "name": "Fraxchain Testnet",
+  "name": "Fraxtal Testnet",
   "chainId": 2522,
-  "shortName": "fraxchain-testnet",
+  "shortName": "fraxtal-testnet",
   "networkId": 2522,
   "nativeCurrency": {
     "name": "Frax Ether",
@@ -13038,6 +13051,19 @@
   "faucets": [],
   "infoURL": "https://adilchain.io"
 }, {
+  "name": "Etherlink Testnet",
+  "chainId": 128123,
+  "shortName": "etlt",
+  "networkId": 128123,
+  "nativeCurrency": {
+    "name": "tez",
+    "symbol": "XTZ",
+    "decimals": 18
+  },
+  "rpc": ["https://node.ghostnet.etherlink.com"],
+  "faucets": ["https://faucet.etherlink.com"],
+  "infoURL": "https://etherlink.com"
+}, {
   "name": "ETND Chain Mainnets",
   "chainId": 131419,
   "shortName": "ETND",
@@ -14350,6 +14376,19 @@
   "rpc": ["https://rpc.zhejiang.ethpandaops.io"],
   "faucets": ["https://faucet.zhejiang.ethpandaops.io", "https://zhejiang-faucet.pk910.de"],
   "infoURL": "https://zhejiang.ethpandaops.io"
+}, {
+  "name": "Turkey Demo Dev",
+  "chainId": 1731313,
+  "shortName": "TDD",
+  "networkId": 1731313,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://blockscout-poa.huabeizhenxuan.com"],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "DeBank Testnet",
   "chainId": 2021398,

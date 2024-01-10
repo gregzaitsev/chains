@@ -199,6 +199,14 @@
     "format": "png"
   }]
 }, {
+  "name": "metachain",
+  "icons": [{
+    "url": "ipfs://QmUH2Ph2hW4upvevEAGCaSo7nd8nthqMx5RrHcrnNZ9Y3g",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
+  }]
+}, {
   "name": "altcoinchain",
   "icons": [{
     "url": "ipfs://QmYwHmGC9CRVcKo1LSesqxU31SDj9vk2iQxcFjQArzhix4",
@@ -1980,6 +1988,14 @@
     "url": "ipfs://QmYxniqbiFD7nXBNjN8boUhoXYEAW23YquArD2Rnkq8WHS",
     "width": 480,
     "height": 480,
+    "format": "png"
+  }]
+}, {
+  "name": "etherlink",
+  "icons": [{
+    "url": "ipfs://QmVqE4wq3fd3RKZwo7GxmW333ywHgYBZGvqwh3TUBM5DUi",
+    "width": 584,
+    "height": 545,
     "format": "png"
   }]
 }, {
