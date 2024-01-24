@@ -351,6 +351,14 @@
     "format": "png"
   }]
 }, {
+  "name": "paxb",
+  "icons": [{
+    "url": "ipfs://QmSP66CHynXpMYkjV28uLjTR4kjuoJyy92igYYpvLoqHtG",
+    "width": 300,
+    "height": 300,
+    "format": "png"
+  }]
+}, {
   "name": "kalychain",
   "icons": [{
     "url": "ipfs://QmUaXcPewLuQtY5a7xPTzJyVdjkH487VfV7gSR8UXrbxQ3",
@@ -2023,6 +2031,14 @@
     "format": "jpg"
   }]
 }, {
+  "name": "bevmcanary",
+  "icons": [{
+    "url": "ipfs://QmfMXiYn4xF9JwdjaqM5YKhqoByox51XvnL68VvKJS6yyu",
+    "width": 1000,
+    "height": 1000,
+    "format": "png"
+  }]
+}, {
   "name": "fnc",
   "icons": [{
     "url": "ipfs://bafkreifx4vef7ubqz4iiaxckcvkdwjrp2hbliljwjlwu2vytlngg3r4pg4",
@@ -2503,6 +2519,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mthn",
+  "icons": [{
+    "url": "ipfs://bafkreia5q26knsvxgkwxze7woepvsqat5n2hodokh4ozzphmhexqez5s34",
+    "width": 100,
+    "height": 100,
+    "format": "png"
+  }]
+}, {
   "name": "globelchain",
   "icons": [{
     "url": "ipfs://QmPRHDsVNpRZ72GoQgDbpa3R4wKENmrXCRNuYJkxocFRDb",
@@ -2612,6 +2636,14 @@
     "url": "ipfs://QmVbzZYXdVFY3uFaWQd7iSRtdM2UKWohj9fVqqEwxcw2RV",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "tangle",
+  "icons": [{
+    "url": "ipfs://QmbxMNBTeQgch8t9GpWdLiS2R3wPYCzVRaX5kCQ4o5QU3w",
+    "width": 1600,
+    "height": 1600,
     "format": "png"
   }]
 }, {
@@ -3143,6 +3175,14 @@
     "format": "png"
   }]
 }, {
+  "name": "w3gamez",
+  "icons": [{
+    "url": "ipfs://QmaQdiE7vwxKeuWCjk4nKBikcpg4XCzQkFWGrAZHmMKnrq",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "klyntar",
   "icons": [{
     "url": "ipfs://QmaDr9R6dKnZLsogRxojjq4dwXuXcudR8UeTZ8Nq553K4u",
@@ -3313,9 +3353,9 @@
 }, {
   "name": "ancient8",
   "icons": [{
-    "url": "ipfs://QmSX8sHToRzyFupT8BvPQjVsegRWFYz2mdnLkVnqBFKohY",
-    "width": 901,
-    "height": 901,
+    "url": "ipfs://QmXLmYMqZ2ZKyaaEjayNjLai4RUo2YmorUDwkk95xmdTUr",
+    "width": 80,
+    "height": 80,
     "format": "png"
   }]
 }, {
@@ -3717,6 +3757,14 @@
     "width": 200,
     "height": 200,
     "format": "png"
+  }]
+}, {
+  "name": "haven1",
+  "icons": [{
+    "url": "ipfs://QmbSwngVDEiGaw3JzdME7fz5mYBWKbbz1ZerTpimaAxNXR",
+    "width": 32,
+    "height": 33,
+    "format": "svg"
   }]
 }, {
   "name": "altlayer",
