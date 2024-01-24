@@ -14191,7 +14191,7 @@
     "symbol": "BAX",
     "decimals": 18
   },
-  "rpc": ["https://test.redefi.world/rpc"],
+  "rpc": ["https://testrpc.redefi.world/rpc"],
   "faucets": [],
   "infoURL": "https://redefi.world"
 }, {
