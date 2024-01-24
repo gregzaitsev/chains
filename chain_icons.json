@@ -135,6 +135,14 @@
     "format": "png"
   }]
 }, {
+  "name": "jono11",
+  "icons": [{
+    "url": "ipfs://bafkreievzx4ke62dtc77o47x7vs7nn67ghzrwku6h5dxo3hwcsqfeblke4",
+    "width": 612,
+    "height": 612,
+    "format": "png"
+  }]
+}, {
   "name": "titan",
   "icons": [{
     "url": "ipfs://bafkreiagrt5dhgltg2kmw7hf24kslstr5h42e745luuxwp2wbg24gm6zza",
@@ -2540,6 +2548,14 @@
     "url": "ipfs://bafybeib75gwytvblyvjpfminitr3i6mpat3a624udfsqsl5nysf5vuuvie",
     "width": 96,
     "height": 96,
+    "format": "png"
+  }]
+}, {
+  "name": "eiob",
+  "icons": [{
+    "url": "ipfs://QmfJLG2mXgSqKx2V3A2jzTwt4vkozvQTTXkRy3os27wEVm",
+    "width": 48,
+    "height": 48,
     "format": "png"
   }]
 }, {
