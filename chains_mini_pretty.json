@@ -11686,7 +11686,7 @@
   "faucets": [],
   "infoURL": "https://fusion.org"
 }, {
-  "name": "ReDeFi Mainnet",
+  "name": "ReDeFi Layer 1",
   "chainId": 47803,
   "shortName": "red",
   "networkId": 47803,
@@ -11695,7 +11695,7 @@
     "symbol": "BAX",
     "decimals": 18
   },
-  "rpc": ["https://main.redefi.world/rpc"],
+  "rpc": ["https://layer1.redefi.world"],
   "faucets": [],
   "infoURL": "https://redefi.world"
 }, {
