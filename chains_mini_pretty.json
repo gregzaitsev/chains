@@ -14286,19 +14286,6 @@
   "faucets": [],
   "infoURL": "https://miexs.com"
 }, {
-  "name": "ReDeFi Testnet",
-  "chainId": 764849,
-  "shortName": "tred",
-  "networkId": 764849,
-  "nativeCurrency": {
-    "name": "BAX",
-    "symbol": "BAX",
-    "decimals": 18
-  },
-  "rpc": ["https://testrpc.redefi.world/rpc"],
-  "faucets": [],
-  "infoURL": "https://redefi.world"
-}, {
   "name": "Modularium",
   "chainId": 776877,
   "shortName": "mdlrm",
